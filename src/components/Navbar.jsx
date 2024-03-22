@@ -17,13 +17,13 @@ function Navbar() {
     const Navdata = [
         {
             id: 1,
-            headername: "Genres",
+            headername: "Genres EDITED",
             Name: "Genres",
             link : "/"
         },
         {
             id: 2,
-            headername: "Trending Movies",
+            headername: "Trending Movies eDITED",
             Name: "Trending",
             link:"/trending"
         },
