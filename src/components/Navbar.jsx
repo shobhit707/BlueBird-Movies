@@ -18,7 +18,7 @@ function Navbar() {
         {
             id: 1,
             headername: "Genres EDITED",
-            Name: "Genres",
+            Name: "Genres ediet",
             link : "/"
         },
         {
@@ -30,13 +30,13 @@ function Navbar() {
         {
             id: 3,
             headername: "Upcoming Movies",
-            Name: "Upcoming",
+            Name: "Upcoming edited",
             link:"/upcoming"
         },
         {
             id: 4,
             headername: "Favorite Movies",
-            Name: "Favorites",
+            Name: "Favorites edited",
             link:"/favorite"
         }
     ]
